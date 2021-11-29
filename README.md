@@ -222,6 +222,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [What stumped me about AngularJS] (http://www.peterbe.com/plog/what-stumped-me-about-angularjs)
 * [What’s the Role of the Server in Single Page Applications (SPAs)?](http://weblogs.asp.net/dwahlin/what-s-the-role-of-the-server-in-single-page-applications-spas)
 * [You don't always need DI in AngularJS directives](http://michalostruszka.pl/blog/2015/01/18/angular-directives-di/)
+* [Angular State Management With NGXS](https://www.loginradius.com/blog/async/angular-state-management-with-ngxs/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 
